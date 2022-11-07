@@ -94,7 +94,7 @@ button#equal {
     height: 130px;
 }
 
-button#zero{
+button.zero{
     width: 130px;
 }
 
