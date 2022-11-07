@@ -94,6 +94,10 @@ button#equal {
     height: 130px;
 }
 
+button[name='total']{
+    width: 130px;
+}
+
 /* light theme */
 .calculator {
     background-color: #fff;
